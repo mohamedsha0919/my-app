@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.png';
+import logo from '../images/logo.png';
 
 export default function Navbar(){
   return(
@@ -15,16 +15,22 @@ export default function Navbar(){
 						<a className="nav-link" href="#home">Home</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#Main.js">Pricing</a>
+						<a className="nav-link" href="#Who-we-are">Why Us</a>
 					</li>
 					<li className="nav-item">
 						<a className="nav-link" href="#blogs">Blogs</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#contacts">Contact</a>
+						<a className="nav-link" href="#about--us">About</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#about">About</a>
+						<a className="nav-link" href="#services">Services</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link" href="#Pricing">Pricing</a>
+					</li>
+					<li className="nav-item">
+						<a className="nav-link" href="#Contacts">Contacts</a>
 					</li>
 				</ul>
 			</div>
