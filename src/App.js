@@ -10,6 +10,7 @@ import Pricing from './component/Pricing';
 import Contacts from './component/Contacts';
 import Copyright from './component/Copyright';
 import './App.css';
+import './media.css';
 
 
 function App() {

@@ -16,7 +16,7 @@ export default function Services(){
 				tempor incididuntLorem ipsum <br/>dolor sit amet, consectetur adipisicing elit.</p>
 			</div>
             
-				<div className="row justify-content-around m-5">
+				<div className="row justify-content-around services--row--1">
 					<div className="col-12 col-lg-4 col-md-4 col-sm-4">
 						<div className="card">
 							<div className="card-body">
@@ -46,7 +46,7 @@ export default function Services(){
 					</div>			
                 </div>
 				{/*--------------------------------------------*/}
-				<div className="row justify-content-around m-5">
+				<div className="row justify-content-around services--row--2">
 					<div className="col-12 col-lg-4 col-md-4 col-sm-4">
 						<div className="card">
 							<div className="card-body">

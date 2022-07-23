@@ -6,7 +6,7 @@ import border from '../images/border_1.png';
 export default function Main(){
   return(
     <>
-    <div className='hero'>
+    <div className='hero' id="home">
         <h1 class="hero--text">gentlemen's<span> club</span></h1>
 		<p class="hero--text--1">haircuts & shaves</p>
 		<p class="hero--text--2">life isn't perfect<br/> <span><b>but your hair can be.</b></span></p>
