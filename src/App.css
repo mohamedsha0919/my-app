@@ -16,7 +16,7 @@
 .navbar-nav{
 	letter-spacing: 2px;
 	font-size: 17px;
-  	margin-left: auto;
+	margin-left: auto;
   	margin-right: 40px;
 }
 .nav-link{
@@ -377,8 +377,29 @@ address{
 }
 #Copyright{
 	background-color: #FF8C00;
+	overflow-x: hidden;
 }
-#Copyright p{
+.Copyright--col--1{
+	text-align: left;
 	color: #FFFFFF;
+	padding-left: 40px;
+}
+.news--letter{
+	font-size: 30px;
+	font-family: serif, sans-serif;
+}
+.news--letter--input{
+	width: 250px;
+	background-color: transparent;
+	border: transparent;
+	border-bottom: .3px solid white;
+}
+.news--letter--btn{
+	background-color: #FFFFFF;
+	color: #FF8C00;
+	margin-left: 20px;
+}
+.Copyright--col--2{
 	text-align: right;
+	color: #FFFFFF;
 }
