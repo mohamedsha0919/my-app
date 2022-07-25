@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.1c97c8dc.css",
+    "main.js": "/my-app/static/js/main.b830d3d4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/The_Barber_Salzburg_Shop_Opening_2016-274.jpg": "/my-app/static/media/The_Barber_Salzburg_Shop_Opening_2016-274.52b557195c09a11d718a.jpg",
+    "static/media/banner-img.jpg": "/my-app/static/media/banner-img.802089c0ce619e2a289c.jpg",
+    "static/media/wiskey.png": "/my-app/static/media/wiskey.096ac6b378c81f66de4e.png",
+    "static/media/shave-removebg-preview.png": "/my-app/static/media/shave-removebg-preview.6f3b9953c34dce5a378a.png",
+    "static/media/barber-shop-5225309_1920.jpg": "/my-app/static/media/barber-shop-5225309_1920.168cbb78e4470de84ff0.jpg",
+    "static/media/-razor.png": "/my-app/static/media/-razor.b3e04570bd5d66576843.png",
+    "static/media/best+barber+techniques.jpg": "/my-app/static/media/best+barber+techniques.ffe58bea5adead70f4c2.jpg",
+    "static/media/border_1.png": "/my-app/static/media/border_1.76c5e52b6301208703f2.png",
+    "static/media/barber-shop-6797998_960_720.jpg": "/my-app/static/media/barber-shop-6797998_960_720.f1eee7d7b68fe1e471e0.jpg",
+    "static/media/hair+braiding.jpg": "/my-app/static/media/hair+braiding.25f1cc1e29fe929ba7a2.jpg",
+    "static/media/top+notch+barbershop.jpg": "/my-app/static/media/top+notch+barbershop.72379907228671173990.jpg",
+    "static/media/Best+barbershop.jpg": "/my-app/static/media/Best+barbershop.73724f0a9b2da3c8e91d.jpg",
+    "static/media/shutterstock_704589289.jpg": "/my-app/static/media/shutterstock_704589289.5bb281cc03d90bf85eec.jpg",
+    "static/media/logo.png": "/my-app/static/media/logo.f7d5d4630bf37a5105f8.png",
+    "static/media/head.svg": "/my-app/static/media/head.a642b2880e85d248c00688c2313cba03.svg",
+    "static/media/haircut.svg": "/my-app/static/media/haircut.89282a2de00f28873660487a4aaf9eeb.svg",
+    "static/media/chair.svg": "/my-app/static/media/chair.b6d33af6eb8e5b153428b2bf8a29cc71.svg",
+    "index.html": "/my-app/index.html",
+    "main.1c97c8dc.css.map": "/my-app/static/css/main.1c97c8dc.css.map",
+    "main.b830d3d4.js.map": "/my-app/static/js/main.b830d3d4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c97c8dc.css",
+    "static/js/main.b830d3d4.js"
+  ]
+}
